@@ -1,5 +1,5 @@
 from logging import raiseExceptions
-from auxilary import get_lyric
+from trop.auxilary import get_lyric
 from trop.modus import *
 from trop.dictionaries import rhythm_to_duration
 from music21 import stream
