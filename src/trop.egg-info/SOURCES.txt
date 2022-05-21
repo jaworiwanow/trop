@@ -1,4 +1,4 @@
-License.txt
+LICENSE
 pyproject.toml
 setup.cfg
 src/trop/__init__.py
