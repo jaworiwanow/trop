@@ -1,4 +1,4 @@
-from phrase import *
+from trop.phrase import *
 
 ### if there are issues with the .show() command, the following must be run; 
     # import music21

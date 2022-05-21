@@ -1,7 +1,7 @@
 
 from music21 import *
-from dictionaries import*
-from scales import *
+from trop.dictionaries import*
+from trop.scales import *
 
 class Modus:
     ''' Byzantine Mode class, defined by 

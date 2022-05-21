@@ -1,9 +1,9 @@
 from logging import raiseExceptions
 from auxilary import get_lyric
-from modus import *
-import re
-from dictionaries import rhythm_to_duration
+from trop.modus import *
+from trop.dictionaries import rhythm_to_duration
 from music21 import stream
+import re
 
 class Phrase:
     ''' Byzantine notation phrase/line 
