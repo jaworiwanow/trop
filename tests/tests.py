@@ -1,8 +1,8 @@
 import unittest
 
-from modus import Modus
-from phrase import Phrase
-from dictionaries import mode_types
+from trop.modus import Modus
+from trop.phrase import Phrase
+from trop.dictionaries import mode_types
 
 class TestMode(unittest.TestCase):
     def test_right_mode_type(self):
