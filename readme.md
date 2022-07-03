@@ -53,6 +53,8 @@ Running environment.set('musescoreDirectPNGPath', 'C:\\Program Files\\MuseScore 
 
 
 ## Documentation
+A (soon to be imporoved) documentation can be found [here](https://jaworiwanow.github.io/trop/trop.html)
+
 ## Screenshots
 ## Tutorials
 Please refer to the TROP Architecture file for now.
